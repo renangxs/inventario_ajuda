@@ -1,0 +1,31 @@
+*INVENTARIO SALA CPD AJUDA*
+*PDV;*
+6x caixas (04, 16, 18) e (21 SOM)
+3x gaveta 
+4x impressora bematech (1 modelo MP2500) 
+6x leitores  (2 leitores serial) 
+2x monitores; DELL e. samsung 
+2x balanças 
+1x nobreak apc 
+1x pinpeds (serial) 
+*0x bateria de nobreak (reserva)*
+
+*EQUIPAMENTO EM GERAL*
+7x teclados ( 1 teclado Busca Preço)  
+4x mouse 
+1x impressora de senha 
+1x testador de voltagem eletrica
+2x testadores de cabo de rede
+9x adaptadores POE (6x cameras ip)
+1x impressora etiqueta Allegro
+1x controle para configurar camera multi hd
+0x telefone reserva 
+0x cameras reservas
+
+*SUPRIMENTOS EM GERAL*
+8xCD
+1x toners (1x CB435A)
+3x RJ45
+4x baterias 3v
+
+
