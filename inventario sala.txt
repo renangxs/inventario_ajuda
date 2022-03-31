@@ -26,6 +26,7 @@
 8xCD
 1x toners (1x CB435A)
 3x RJ45
-4x baterias 3v
+4x baterias v3
 
+teste
 
