@@ -12,7 +12,9 @@ QE (3) tem 0x bateria de nobreak (reserva)*
 
 *EQUIPAMENTO EM GERAL*
 QE (3) tem 7x teclados (1 teclado Busca Preço)  
-QE (3) tem 4x mouse 
+
+QE (3) tem 1x mouse (-3) (1 recepção e 2 matriz)
+
 QE (1) tem 1x impressora de senha 
 QE (2) tem 1x impressora etiqueta Allegro
 QE (1) tem 0x telefone reserva 
