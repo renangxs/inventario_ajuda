@@ -1,20 +1,18 @@
 *INVENTARIO SALA CPD AJUDA*
 *PDV;*
-QE (4) tem 3x 6x caixas (04, 16, 18) e (21 SOM)
+QE (4) tem 3x 6x caixas (16, 18) e (21 SOM) (-1)
 QE (2) tem 3x gaveta 
 QE (3) tem 4x impressora bematech (1 modelo MP2500) 
 QE (3) tem 6x leitores  (2 leitores serial) 
 QE (2) tem 2x monitores; DELL e. samsung 
 QE (3) tem 2x balanças 
-QE (3) tem 1x nobreak apc 
-QE (3) tem 1x pinpeds  
+QE (3) tem 2x nobreak apc (+1)
+QE (3) tem 2x pinpeds   (+1)
 QE (3) tem 0x bateria de nobreak (reserva)*
 
 *EQUIPAMENTO EM GERAL*
 QE (3) tem 7x teclados (1 teclado Busca Preço)  
-
-QE (3) tem 1x mouse (-3) (1 recepção e 2 matriz)
-
+QE (3) tem 1x mouse 
 QE (1) tem 1x impressora de senha 
 QE (2) tem 1x impressora etiqueta Allegro
 QE (1) tem 0x telefone reserva 
