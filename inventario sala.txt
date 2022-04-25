@@ -7,11 +7,11 @@ QE (3) tem 6x leitores  (2 leitores serial)
 QE (2) tem 2x monitores; DELL e samsung 
 QE (3) tem 2x balanças 
 QE (3) tem 2x nobreak apc 
-QE (3) tem 1x pinpeds -1 
+QE (3) tem 1x pinpeds 
 QE (3) tem 0x bateria de nobreak (reserva)*
 
 *EQUIPAMENTO EM GERAL*
-QE (3) tem 7x teclados (1 teclado Busca Preço)  
+-1 etq QE (3) tem 6x teclados (1 teclado Busca Preço)  
 QE (3) tem 1x mouse 
 QE (1) tem 1x impressora de senha 
 QE (2) tem 1x impressora etiqueta Allegro
@@ -23,9 +23,9 @@ QE (2) tem 0x cameras reservas
 1x testador de voltagem eletrica
 
 *SUPRIMENTOS EM GERAL*
-5xCD (-2) estao no cftv
+5xCD  estao no cftv
 QE (2) tem 1x toners (1x CB435A - 0x impressora rh)
 3x RJ45
-3x baterias v3 (-1)
+3x baterias v3 
 
 
