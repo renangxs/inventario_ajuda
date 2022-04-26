@@ -7,11 +7,11 @@ QE (3) tem 6x leitores  (2 leitores serial)
 QE (2) tem 2x monitores; DELL e samsung 
 QE (3) tem 2x balanças 
 QE (3) tem 2x nobreak apc 
-QE (3) tem 1x pinpeds 
+-1 cx6 QE (3) tem 0x pinpeds 
 QE (3) tem 0x bateria de nobreak (reserva)*
 
 *EQUIPAMENTO EM GERAL*
--1 etq QE (3) tem 6x teclados (1 teclado Busca Preço)  
+QE (3) tem 6x teclados (1 teclado Busca Preço)  
 QE (3) tem 1x mouse 
 QE (1) tem 1x impressora de senha 
 QE (2) tem 1x impressora etiqueta Allegro
