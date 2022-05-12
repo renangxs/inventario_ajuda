@@ -5,16 +5,16 @@ QE (2) tem 3x gaveta
 QE (3) tem 4x impressora  
 QE (3) tem 6x leitores  (2 leitores serial) 
 QE (2) tem 2x monitores; DELL e samsung 
-QE (3) tem 2x balanças 
+QE (3) tem 0x balanças -2
 QE (3) tem 2x nobreak apc 
--1 cx6 QE (3) tem 0x pinpeds 
+QE (3) tem 0x pinpeds 
 QE (3) tem 0x bateria de nobreak (reserva)*
 
 *EQUIPAMENTO EM GERAL*
 QE (3) tem 6x teclados (1 teclado Busca Preço)  
 QE (3) tem 1x mouse 
-QE (1) tem 1x impressora de senha 
-QE (2) tem 1x impressora etiqueta Allegro
+QE (1) tem 0x impressora de senha 
+QE (1) tem 1x impressora etiqueta Allegro
 QE (1) tem 0x telefone reserva 
 QE (2) tem 0x cameras reservas
 9x adaptadores POE (6x cameras ip)
